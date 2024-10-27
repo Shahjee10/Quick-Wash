@@ -88,3 +88,9 @@ $ git add .
 in)
 $ git add .
 
+in)
+$ git add .
+
+in)
+$ git add .
+
