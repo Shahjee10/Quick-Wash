@@ -177,4 +177,7 @@ $ git add .
 
 
 
+in)
+$ git add .
+
 
