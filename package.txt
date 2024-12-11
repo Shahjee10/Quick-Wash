@@ -307,7 +307,13 @@ in)in)
 $ git add .
 
 in)
+$ git add .in)
 $ git add .
+
+in)
+$ git add .
+
+
 
 
 $ git add .
