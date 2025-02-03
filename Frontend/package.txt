@@ -1,4 +1,4 @@
-git commit --amend --date="2025-02-03 20:12:32git commit --amend --date="2025-02-03 20:12:32git commit --amend --date="2025-02-03 20:12:32git commit --amend --date="2025-02-03 20:12:32git commit --amend --date="2025-02-03 20:12:32{
+git commit --amend --date="2025-02-03 20:12:32git commit --amend --date="2025-02-03 20:12:32git commit --amend --date="2025-02-03 20:12:32git commit --amend --date="2025-02-03 20:12:32git commit --amend --date="2025-02-03 20:12:32git commit --amend --date="2025-02-03 20:12:32git commit --amend --date="2025-02-03 20:12:32git commit --amend --date="2025-02-03 20:12:32git commit --amend --date="2025-02-03 20:12:32git commit --amend --date="2025-02-03 20:12:32{
   "name": "quickwashapp",
   "version": "1.0.0",
   "lockfileVersion": 3,
