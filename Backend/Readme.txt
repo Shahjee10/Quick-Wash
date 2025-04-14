@@ -1,12 +1,12 @@
 ----------kkvkkvkkvkkvhttps://meet.google.com/mkt-fuiq-kkvkkvkkvkkvkkv------kkvkkvkkvhttps://meet.google.com/mkt-fuiq-kkv
 
-kkvkkvkkvkkvhttps://me------et.google.com/mkt-fuiq-kkvkkvkkvkkvkkvkkvkkvkkvhttps://meet.google------.com/mkt-fuiq-kkv
---------------------
+kkvkkvkkvkkvhttps://me------et.google.com/mkt-fuiq-kkvkkvkkvkkvkkvkkvkkvkkvhtt------ps://meet.google------.com/mkt-fuiq-kkv
+--------------------------
 git commit --------------amen----d --date="2025-02-03 20:12:32
 ------------
 ------------------------------
 ggit commit --amend --date="2025-02-03 20:12:32"
-ggit commit --amend --d------ate="2025-02-03 20:12:32"
+ggit commit --amen--------d --d------ate="2025-02-03 20:12:32"
 git commit ----------amend --dagit commit---- --amend --date="2025-02-03 20:12:32"------------------
 git commit --amegit commit --ame------nd --d------ate="2025-02-03 20:12:32"
 git commit --amend --d------ate="2025-02-03 20:12:3git commit --amend --date="2025-02-03 20:12------:32----"
