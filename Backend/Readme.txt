@@ -5,7 +5,7 @@ kkvkkvkkvkkvhttps://me------et.google.com/mkt-fuiq-kkvkkvkkvkkvkkvkkv-----------
 git commit ----------------------------------amen----d --date="2025-02-03 20:12:32--------
 ------------------------v
 ------------------------------------------------------------------
-ggit comm--------i------t --amend --date="2025-02-03 20:12:32"
+ggit comm--------i------t ----------v--amend --date="2025-02-03 20:12:32"
 ggit commit --am----------en--------d --------d------ate="2025-02-03 20:12:32"
 git commit ----------amend --dagit commit---- --amend --date="2025-02-03 20:12:32"------------------
 git commit --amegit commi----t --ame------nd --d------ate="2025-02-03 20:12:32"
