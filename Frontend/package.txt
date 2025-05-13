@@ -1,0 +1,703 @@
+{
+  "name": "quickwashapp",
+  "version": "1.0.0",
+  "lockfileVersion": 3,
+  "requires": true,
+  "packages": {
+    "": {
+      "name": "quickwashapp",
+      "version": "1.0.0",
+      "dependencies": {
+        "@react-navigation/native": "^6.1.18",
+        "@react-navigation/stack": "^6.4.1",
+        "expo": "~51.0.28",
+        "expo-linear-gradient": "~13.0.2",
+        "expo-status-bar": "~1.12.1",
+        "react": "18.2.0",
+        "react-native": "0.74.5"
+      },
+      "devDependencies": {
+        "@babel/core": "^7.20.0"
+      }
+    },
+    "node_modules/@ampproject/remapping": {
+      "version": "2.3.0",
+      "resolved": "https://registry.npmjs.org/@ampproject/remapping/-/remapping-2.3.0.tgz",
+      "integrity": "sha512-30iZtAPgz+LTIYoeivqYo853f02jBYSd5uGnGpkFV0M3xOt9aN73erkgYAmZU43x4VfqcnLxW9Kpg3R5LC4YYw==",
+      "license": "Apache-2.0",
+      "dependencies":in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .in)
+$ git add .
+
+in)
+$ git add .
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+
+
+in)
+$ git add .
+in)
+$ git add .
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+
+
+in)
+$ git add .
+
+in)
+$ git add .in)
+$ git add .
+
+in)
+$ git add .
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+in)
+$ git add .in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)in)
+$ git add .
+
+in)
+$ git add .in)
+$ git add .
+
+in)
+$ git add .
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+
+
+in)
+$ git add .
+
+in)
+$ git add .
+in)
+$ git add .
+
+in)
+$ git add .
+
+quickwash1234quickwash1234
+
+
+$ git add .
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+
+
+in)
+$ git add .
+
+in)
+$ git add .
+in)
+$ git add .
+
+in)
+$ git add .in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+in)
+$ git add .
+
+
+
+in)
+$ git add .
+
+in)
+$ git add .
+in)
+$ git add .
+
+in)
+$ git add .https://meet.google.com/mkt-fuiq-kkvhttps://meet.google.com/mkt-fuiq-kkvhttps://meet.google.com/mkt-fuiq-kkvhttps://meet.google.com/mkt-fuiq-kkvhttps://meet.google.com/mkt-fuiq-kkvhttps://meet.google.com/mkt-fuiq-kkvhttps://meet.google.com/mkt-fuiq-https://meet.google.com/mkt-fuiq-kkvhttps://meet.google.com/mkt-fuiq-kkvkkvhttps://meet.google.com/mkt-fuiq-kkvhttps://meet.google.com/mkt-fuiq-kkvhttps://meet.google.com/mkt-fuiq-kkvhttps://meet.google.com/mkt-fuiq-kkv
+
+https://meet.google.com/mkt-fuiq-kkvhttps://meet.google.com/mkt-fuiq-kkvhttps://meet.google.com/mkt-fuiq-https://meet.google.com/mkt-fuiq-kkvhttps://meet.google.com/mkt-fuiq-kkvkkvhttps://meet.google.com/mkt-fuiq-kkvhttps://meet.google.com/mkt-fuiq-kkvhttps://meet.google.com/mkt-fuiq-kkvhttps://meet.google.com/mkt-fuiq-kkvhttps://meet.google.com/mkt-fuiq-kkvhttps://meet.google.com/mkt-fuiq-kkvhttps://meet.google.com/mkt-fuiq-https://meet.google.com/mkt-fuiq-https://meet.google.com/mkt-fuiq-kkvhttps://meet.google.com/mkt-fuiq-kkvkkvhttps://meet.google.com/mkt-fuiq-https://meet.google.com/mkt-fuiq-kkvhttps://meet.google.com/mkt-fuiq-https://meet.google.com/mkt-fuiq-kkvhttps://meet.google.com/mkt-fuiq-kkvkkvkkvkkvhttps://meet.google.com/mkt-fuiq-https://meet.google.com/mkt-fuiq-kkvhttps://meet.google.com/mkt-fuiq-kkvkkvhttps://meet.google.com/mkt-fuiq-kkvhttps://meet.google.com/mkt-fuiq-kkvhttps://meet.google.com/mkt-fuiq-kkvhttps://meet.google.com/mkt-fuiq-kkvhttps://meet.google.com/mkt-fuiq-https://meet.google.com/mkt-fuiq-kkvhttps://meet.google.com/mkt-fuiq-kkvkkvhttps://meet.google.com/mkt-fuiq-https://meet.google.com/mkt-fuiq-kkvhttps://meet.google.com/mkt-fuiq-https://meet.google.com/mkt-fuiq-kkvhttps://meet.google.com/mkt-fuiq-https://meet.google.com/mkt-fuiq-kkvhttps://meet.google.com/mkt-fuiq-https://meet.google.com/mkt-fuiq-kkvhttps://meet.google.com/mkt-fuiq-https://meet.google.com/mkt-fuiq-kkvhttps://meet.google.com/mkt-fuiq-https://meet.google.com/mkt-fuiq-https://meet.google.com/mkt-fuiq-kkvhttps://meet.google.com/mkt-fuiq-kkvkkvhttps://meet.google.com/mkt-fuiq-https://meet.google.com/mkt-fuiq-https://meet.google.com/mkt-fuiq-kkvhttps://meet.google.com/mkt-fuiq-https://meet.google.com/mkt-fuiq-kkvhttps://meet.google.com/mkt-fuiq-https://meet.google.com/mkt-fuiq-kkvhttps://meet.google.com/mkt-fuiq-
+nothing to commit, working tree clean
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+nothing to commit, working tree clean
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+
+
+
+
+
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+nothing to commit, working tree clean
+
+
+
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+
+
+
+
+nothing to commit, working tree clean
+
+
+nothing to commit, working tree clean
+
+
+
+
+nothing to commit, working tree clean
+
+
+
+nothing to commit, working tree clean
+
+
+
+
+
+
+
+kkvkkvkkvkkvhttps://meet.google.com/mkt-fuiq-kkvkkvkkvkkvkkvkkvkkvkkvhttps://meet.google.com/mkt-fuiq-kkv
+
+
+
+
+
+
+
+
